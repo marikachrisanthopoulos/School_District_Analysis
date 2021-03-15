@@ -14,32 +14,43 @@ The final file with the code to alter the data for this challenge is: PyCityScho
 ## Results
 The district summary was only slightly affected after the challenge (small drops in all variables): see the following images -
 
-Old District Summary
+**Old District Summary**
 ![Old District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_Old.png)
 
-New District Summary
+**New District Summary**
 ![New District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_New.png)
+
 
 
 The school summary was affected: Math, Reading, and Overall Scores for Thomas High School were altered significantly (significant drop after re-analyzing the data for the challenge): see the following images -
 
-[Old School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_Old.png)
+**Old School Summary**
+![Old School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_Old.png)
 
-[New School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_New.png)
-
-
-[Old Scores by School Spending](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_Old.png)
-
-[New Scores by School Spending](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_New.png)
+**New School Summary**
+![New School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_New.png)
 
 
-[Old Scores by School Size](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Size_Old.png)
 
-[New Scores by School Size](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Size_New.png)
+**Old Scores by School Spending**
+![Old Scores by School Spending](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_Old.png)
+
+**New Scores by School Spending**
+![New Scores by School Spending](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_New.png)
 
 
-[Old Scores by School Type](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Type_Old.png)
+**Old Scores by School Size**
+![Old Scores by School Size](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Size_Old.png)
 
-[New Scores by School Type](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Type_New.png)
+**New Scores by School Size**
+![New Scores by School Size](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Size_New.png)
+
+
+
+**Old Scores by School Type**
+![Old Scores by School Type](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Type_Old.png)
+
+**New Scores by School Type**
+![New Scores by School Type](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Type_New.png)
 
 ## Summary
