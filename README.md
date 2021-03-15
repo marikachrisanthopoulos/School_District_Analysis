@@ -12,10 +12,16 @@ This challenge encompassed re-completing the analysis due to the school board be
 The final file with the code to alter the data for this challenge is: PyCitySchools_Challenge.ipynb.
 
 ## Results
-The district summary was only slightly affected after the challenge: see the following images -
+The district summary was only slightly affected after the challenge (small drops in all variables): see the following images -
 
 ![Old District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_Old.png)
 
 ![New District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_New.png)
+
+The school summary was 
+
+![Old School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_Old.png)
+
+![New School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_New.png)
 
 ## Summary
