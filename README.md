@@ -18,7 +18,7 @@ The district summary was only slightly affected after the challenge (small drops
 
 ![New District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_New.png)
 
-The school summary was 
+The school summary was affected: Math, Reading, and Overall Scores for Thomas High School were altered significantly (significant drop after re-analyzing the data for the challenge): see the following images -
 
 ![Old School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_Old.png)
 
