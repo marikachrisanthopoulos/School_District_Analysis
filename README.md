@@ -9,6 +9,13 @@ Two files in .csv format (school_complete.csv; students_complete.csv) were provi
 ### Challenge Overview
 This challenge encompassed re-completing the analysis due to the school board being notified that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. I re-completed the analysis from Module 4 after taking the academic dishonesty of the Thomas High school ninth graders into account by removing their math and reading scores from the data.
 
+The final file with the code to alter the data for this challenge is: PyCitySchools_Challenge.ipynb.
+
 ## Results
+The district summary was only slightly affected after the challenge: see the following images -
+
+![Old District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_Old.png)
+
+![New District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_New.png)
 
 ## Summary
