@@ -22,6 +22,6 @@ The school summary was
 
 ![Old School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_Old.png)
 
-![New School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_New.png)
+![New School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_New.png)
 
 ## Summary
