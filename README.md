@@ -32,12 +32,17 @@ The school summary was affected: Math, Reading, and Overall Scores for Thomas Hi
 
 
 
+The average scores for schools in the $630-$644 range dropped: see the following images -
+
 **Old Scores by School Spending**
 ![Old Scores by School Spending](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_Old.png)
 
 **New Scores by School Spending**
 ![New Scores by School Spending](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_New.png)
 
+
+
+The average scores for medium-sized schools were slightly altered: see the following images -
 
 **Old Scores by School Size**
 ![Old Scores by School Size](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Size_Old.png)
@@ -47,10 +52,14 @@ The school summary was affected: Math, Reading, and Overall Scores for Thomas Hi
 
 
 
+Scores for charter schools were slightly altered as well: see the following images -
+
 **Old Scores by School Type**
 ![Old Scores by School Type](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Type_Old.png)
 
 **New Scores by School Type**
 ![New Scores by School Type](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Type_New.png)
+
+
 
 ## Summary
