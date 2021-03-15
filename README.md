@@ -24,4 +24,19 @@ The school summary was affected: Math, Reading, and Overall Scores for Thomas Hi
 
 ![New School Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/School_Summary_New.png)
 
+
+![Old Scores by School Spending](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_Old.png)
+
+![New Scores by School Spending](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_School_Spending_New.png)
+
+
+![Old Scores by School Size](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Size_Old.png)
+
+![New Scores by School Size](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Size_New.png)
+
+
+![Old Scores by School Type](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Type_Old.png)
+
+![New Scores by School Type](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/Scores_by_Type_New.png)
+
 ## Summary
