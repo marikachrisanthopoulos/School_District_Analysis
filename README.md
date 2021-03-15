@@ -14,10 +14,10 @@ The final file with the code to alter the data for this challenge is: PyCityScho
 ## Results
 The district summary was only slightly affected after the challenge (small drops in all variables): see the following images -
 
-[Old District Summary]
+Old District Summary
 ![Old District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_Old.png)
 
-[New District Summary]
+New District Summary
 ![New District Summary](https://github.com/marikachrisanthopoulos/School_District_Analysis/blob/main/Resources/District_Summary_New.png)
 
 
