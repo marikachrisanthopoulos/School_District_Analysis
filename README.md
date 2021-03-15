@@ -63,3 +63,8 @@ Scores for charter schools were slightly altered as well: see the following imag
 
 
 ## Summary
+Four major changes to the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs include:
+- A significant drop in the percent passing math, percent passing reading, and percent passing overall for Thomas High School.
+- A slight drop in the average and percent passing scores per student for schools in the $630-$644 range.
+- A slight drop in the average and percent passing scores for schools in the medium (1000-2000) size range.
+- A slight drop in the percent passing math, percent passing reading, and percent overall passing for schools in the Charter category.
